@@ -36,21 +36,29 @@ ChefMate est une application mobile interactive qui simplifie l'accès aux recet
 ## 📲 Captures d'Écran
 
 Découverte de l'application 
-
 | In1 | In1 | In1 |
 |---------|----------------------|----------------------|
 ![Accueil](images/home.png) | ![Recherche](images/search.png) | ![Détail](images/detail.png)
-connexion et enregistrement
 
+connexion et enregistrement
 | In1 | In2 |
 |---------|----------------------|
 ![Accueil](images/home.png) | ![Recherche](images/search.png)
 
 Accueil La page des recettes aléatoire
+| In1 | In2 |
+|---------|----------------------|
+![Accueil](images/home.png) | ![Recherche](images/search.png)
 
 les recettes par catégories
+| | |
+|---------|----------------------|
+![Accueil](images/home.png) | ![Recherche](images/search.png)
 
 Recherche de Recettes
+| In1 | In2 |
+|---------|----------------------|
+![Accueil](images/home.png) | ![Recherche](images/search.png)
 
 Les détails d’une recette
 | Accueil | Recherche de Recettes | Détails d'une Recette |
