@@ -8,7 +8,7 @@ ChefMate est une application mobile interactive qui simplifie l'accès aux recet
 ## 🚀 Fonctionnalités Principales
 
 ✅ **Consultation des Recettes**  
-- Affichage dynamique des recettes avec des **filtres avancés** (type de plat, ingrédients, temps de cuisson).  
+- Affichage dynamique des recettes avec des **filtres avancés** (type de plat, ingrédients, temps de cuisson...).  
 
 ✅ **Recherche Avancée**  
 - Recherche par **ingrédients**, **type de plat**, ou **mots-clés**.  
@@ -36,7 +36,7 @@ ChefMate est une application mobile interactive qui simplifie l'accès aux recet
 ## 📲 Captures d'Écran
 
 Découverte de l'application 
-| In1 | In1 | In1 |
+| In1 | In2 | In3 |
 |---------|----------------------|----------------------|
 ![Accueil](images/home.png) | ![Recherche](images/search.png) | ![Détail](images/detail.png)
 
@@ -51,7 +51,7 @@ Accueil La page des recettes aléatoire
 ![Accueil](images/home.png) | ![Recherche](images/search.png)
 
 les recettes par catégories
-| | |
+| In| |
 |---------|----------------------|
 ![Accueil](images/home.png) | ![Recherche](images/search.png)
 
