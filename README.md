@@ -38,12 +38,12 @@ ChefMate est une application mobile interactive qui simplifie l'accès aux recet
 Découverte de l'application 
 | In1 | In2 | In3 |
 |---------|----------------------|----------------------|
-![Accueil](images/home.png) | ![Recherche](images/search.png) | ![Détail](images/detail.png)
+![Accueil](images/DA1.png) | ![Recherche](images/DA2.png) | ![Détail](images/DA3.png)
 
 connexion et enregistrement
-| In1 | In2 |
-|---------|----------------------|
-![Accueil](images/home.png) | ![Recherche](images/search.png)
+| In1 | In2 | in3 |
+|---------|----------------------|----------------------|
+![Accueil](images/home.png) | ![Recherche](images/search.png) | ![Détail](images/detail.png)
 
 Accueil La page des recettes aléatoire
 | In1 | In2 |
@@ -51,17 +51,17 @@ Accueil La page des recettes aléatoire
 ![Accueil](images/home.png) | ![Recherche](images/search.png)
 
 les recettes par catégories
-| In| |
+| In1 ||
 |---------|----------------------|
 ![Accueil](images/home.png) | ![Recherche](images/search.png)
 
 Recherche de Recettes
-| In1 | In2 |
+| In1 ||
 |---------|----------------------|
 ![Accueil](images/home.png) | ![Recherche](images/search.png)
 
 Les détails d’une recette
-| Accueil | Recherche de Recettes | Détails d'une Recette |
+| In1 | In2 | In3 |
 |---------|----------------------|----------------------|
 ![Accueil](images/home.png) | ![Recherche](images/search.png) | ![Détail](images/detail.png)
 
