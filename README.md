@@ -48,7 +48,7 @@ connexion et enregistrement
 Accueil La page des recettes aléatoire
 | In1 ||
 |---------|----------------------|
-![Accueil](images/Interface Recettes.png) |
+![Accueil](images/Interface_Recettes.png) |
 
 les recettes par catégories
 | In1 ||
@@ -58,11 +58,11 @@ les recettes par catégories
 Recherche de Recettes
 | In1 ||
 |---------|----------------------|
-![Accueil](images/Bare de Recherche.png) |
+![Accueil](images/Bare_de_Recherche.png) |
 
 Les détails d’une recette
 | In1 | In2 | In3 |
 |---------|----------------------|----------------------|
-![Accueil](images/détaille 1.png) | ![Recherche](images/détaille 2.png) | ![Détail](images/détaille 3.png)
+![Accueil](images/détaille1.png) | ![Recherche](images/détaille2.png) | ![Détail](images/détaille3.png)
 
 
