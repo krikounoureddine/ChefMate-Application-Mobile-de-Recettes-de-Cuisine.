@@ -53,13 +53,11 @@ Accueil La page des recettes aléatoire
 les recettes par catégories
 | In1 ||
 |---------|----------------------|
-![Accueil](images/Catégories.png) |
-
+!<img src="images/Catégories.png" width="150"> |
 Recherche de Recettes
 | In1 ||
 |---------|----------------------|
-![Accueil](images/Bare_de_Recherche.png) |
-
+!<img src="images/Bare_de_Recherche.png" width="150"> |
 Les détails d’une recette
 | In1 | In2 | In3 |
 |---------|----------------------|----------------------|
