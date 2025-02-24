@@ -48,7 +48,7 @@ connexion et enregistrement
 Accueil La page des recettes aléatoire
 | In1 ||
 |---------|----------------------|
-![Accueil](images/Interface_Recettes.png) |
+!<img src="images/Interface_Recettes.png" width="150"> |
 
 les recettes par catégories
 | In1 ||
