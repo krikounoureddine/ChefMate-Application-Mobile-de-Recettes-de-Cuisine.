@@ -38,29 +38,29 @@ ChefMate est une application mobile interactive qui simplifie l'accès aux recet
 Découverte de l'application 
 | In1 | In2 | In3 |
 |---------|----------------------|----------------------|
-!<img src="images/Description1.png" width="150"> | !<img src="images/Description2.png" width="150"> | !<img src="images/Description3.png" width="150">
+<img src="images/Description1.png" width="150"> | <img src="images/Description2.png" width="150"> | <img src="images/Description3.png" width="150">
 
 connexion et enregistrement
 | In1 | In2 | in3 |
 |---------|----------------------|----------------------|
-!<img src="images/cnx&reg.png" width="150"> | !<img src="images/Connexion.png" width="150"> | !<img src="images/Enregistrement.png" width="150">
+<img src="images/cnx_reg.png" width="150"> | <img src="images/Connexion.png" width="150"> | <img src="images/Enregistrement.png" width="150">
 
 Accueil La page des recettes aléatoire
 | In1 |
 |---------|
-!<img src="images/Interface_Recettes.png" width="150"> |
+<img src="images/Interface_Recettes.png" width="150"> |
 
 les recettes par catégories
 | In1 |
 |---------|
-!<img src="images/Catégories.png" width="150"> |
+<img src="images/Catégories.png" width="150"> |
 
 Recherche de Recettes
 | In1 |
 |---------|
-!<img src="images/Bare_de_Recherche.png" width="150"> |
+<img src="images/Bare_de_Recherche.png" width="150"> |
 
 Les détails d’une recette
 | In1 | In2 | In3 |
 |---------|----------------------|----------------------|
-!<img src="images/détaille1.png" width="150"> | !<img src="images/détaille2.png" width="150"> | !<img src="images/détaille3.png" width="150">
+<img src="images/détaille1.png" width="150"> | <img src="images/détaille2.png" width="150"> | <img src="images/détaille3.png" width="150">
