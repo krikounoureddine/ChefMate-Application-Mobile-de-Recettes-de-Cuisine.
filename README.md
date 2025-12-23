@@ -114,12 +114,27 @@ Dans un monde où trouver la bonne recette peut être fastidieux, cette applicat
   <table>
     <tr>
       <td align="center"><strong>Premiers Pas</strong><br><img src="images/Description1.png" width="200" alt="Présentation" style="object-fit: contain; background: #fef3c7; border-radius: 12px; border: 2px solid #fbbf24;"></td>
-      <td align="center"><strong>Connexion</strong><br><img src="images/cnx_reg.png" width="200" alt="Écran de connexion" style="object-fit: contain; background: #fef3c7; border-radius: 12px; border: 2px solid #fbbf24;"></td>
+      <td align="center"><strong>deuxième Pas</strong><br><img src="images/Description2.png" width="200" alt="Écran de connexion" style="object-fit: contain; background: #fef3c7; border-radius: 12px; border: 2px solid #fbbf24;"></td>
+      <td align="center"><strong>Troisième Pas</strong><br><img src="images/Description3.png" width="200" alt="Recettes aléatoires" style="object-fit: contain; background: #fef3c7; border-radius: 12px; border: 2px solid #fbbf24;"></td>
+      <td align="center"><strong>Cnx & Reg</strong><br><img src="images/cnx_reg.png" width="200" alt="Catégories" style="object-fit: contain; background: #fef3c7; border-radius: 12px; border: 2px solid #fbbf24;"></td>
+    </tr>
+    <tr>
+      <td align="center"><em>Introduction à l'app 1</em></td>
+      <td align="center"><em>Introduction à l'app 2</em></td>
+      <td align="center"><em>Introduction à l'app 3</em></td>
+      <td align="center"><em>Authentification</em></td>
+    </tr>
+  </table>
+    
+  <table>
+    <tr>
+      <td align="center"><strong>Connexion</strong><br><img src="images/Connexion.png" width="200" alt="Présentation" style="object-fit: contain; background: #fef3c7; border-radius: 12px; border: 2px solid #fbbf24;"></td>
+      <td align="center"><strong>Enregistrement</strong><br><img src="images/Enregistrement.png" width="200" alt="Écran de connexion" style="object-fit: contain; background: #fef3c7; border-radius: 12px; border: 2px solid #fbbf24;"></td>
       <td align="center"><strong>Accueil & Découverte</strong><br><img src="images/Interface_Recettes.png" width="200" alt="Recettes aléatoires" style="object-fit: contain; background: #fef3c7; border-radius: 12px; border: 2px solid #fbbf24;"></td>
       <td align="center"><strong>Navigation</strong><br><img src="images/Catégories.png" width="200" alt="Catégories" style="object-fit: contain; background: #fef3c7; border-radius: 12px; border: 2px solid #fbbf24;"></td>
     </tr>
     <tr>
-      <td align="center"><em>Introduction à l'app</em></td>
+      <td align="center"><em>Authentification</em></td>
       <td align="center"><em>Authentification</em></td>
       <td align="center"><em>Dashboard des recettes</em></td>
       <td align="center"><em>Explorer par type</em></td>
@@ -171,6 +186,7 @@ ChefMate est construite sur une architecture **Android Moderne (MVVM)** robuste,
 ## 🛠️ Technologies Utilisées  
 
 ### 📱 **Développement Mobile**
+
 | Technologie | Rôle dans ChefMate |
 |-------------|---------------------|
 | **Java** | Langage principal pour toute la logique applicative. |
@@ -179,6 +195,7 @@ ChefMate est construite sur une architecture **Android Moderne (MVVM)** robuste,
 | **XML** | Définition des layouts, des menus et des ressources visuelles. |
 
 ### ☁️ **Backend, API & Données**
+
 | Technologie | Rôle dans ChefMate |
 |-------------|---------------------|
 | **Spoonacular API** | Le cœur de l'application. Fournit l'accès à une base de données massive de recettes, d'images et d'informations nutritionnelles. |
@@ -188,6 +205,7 @@ ChefMate est construite sur une architecture **Android Moderne (MVVM)** robuste,
 | **Gson** | Convertit les réponses JSON de l'API en objets Java exploitables. |
 
 ### 📚 **Bibliothèques & Design**
+
 | Bibliothèque | Utilisation |
 |--------------|-------------|
 | **Picasso/Glide** | Chargement, cache et affichage optimisé des images de recettes depuis Internet. |
@@ -257,13 +275,10 @@ ChefMate est construite sur une architecture **Android Moderne (MVVM)** robuste,
 
 ## 🎥 Vidéo de Démonstration
 
-<div align="center">
+<div align="center"> Parcourez l'interface, découvrez le processus de recherche d'une recette et voyez les détails interactifs en action.</div>
 
 [![Découvrez ChefMate en vidéo](https://img.shields.io/badge/🎥_Voir_la_démonstration_vidéo_complète-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1V480KQCXkqr1R-E9j5I7X8FYxFfLUdV2/view?usp=sharing)
 
-*Parcourez l'interface, découvrez le processus de recherche d'une recette et voyez les détails interactifs en action.*
-
-</div>
 
 ---
 
@@ -308,6 +323,7 @@ Ce projet est distribué sous la licence **MIT**, une licence open-source permis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Noureddine_Krikou-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noureddine-krikou)
 
 📧 **Une question, un retour ou une opportunité ? N'hésitez pas :**
+
 [![Email](https://img.shields.io/badge/Email-Écrivez_moi-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:contact@krikou.dev)
 
 ---
@@ -330,14 +346,7 @@ Ce projet démontre la capacité à :
 > ⭐ **Vous avez trouvé ce projet intéressant ?** Laissez une **étoile** sur le [dépôt GitHub](https://github.com/krikounoureddine/ChefMate) ! C'est le meilleur moyen de le soutenir.
 
 <div align="center" style="margin-top: 3rem; padding: 2rem; background: linear-gradient(to right, #fffbeb, #fef3c7); border-radius: 16px; border: 2px dashed #f59e0b;">
-
----
-
-## 🍽️ ChefMate • Votre inspiration culinaire, intelligemment organisée.
-
-[![Code Source](https://img.shields.io/badge/📁_Accéder_au_Code_Source_Complet-7c2d12?style=for-the-badge)](https://github.com/krikounoureddine/ChefMate)
-[![Prêt pour Android](https://img.shields.io/badge/📲_Prêt_pour_Android-3DDC84?style=for-the-badge&logo=android)](https://github.com/krikounoureddine/ChefMate/releases)
-
+<p> 🍽️ ChefMate • Votre inspiration culinaire, intelligemment organisée. </p>
 </div>
 
 
